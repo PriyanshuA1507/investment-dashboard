@@ -1,0 +1,1 @@
+  <p className="text-xl">Current Value</p>
